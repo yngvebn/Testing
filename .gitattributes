@@ -1,1 +1,1 @@
-shared/*.* merge=theirs
+*.config merge=theirs
